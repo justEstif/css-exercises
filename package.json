@@ -1,0 +1,11 @@
+{
+  "name": "css-exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:justEstif/css-exercises.git",
+  "author": "justEstif <95101485+justEstif@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
